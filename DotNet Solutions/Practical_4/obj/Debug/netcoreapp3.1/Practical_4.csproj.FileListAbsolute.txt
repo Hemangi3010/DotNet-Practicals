@@ -1,0 +1,10 @@
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\bin\Debug\netcoreapp3.1\Practical_4.exe
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\bin\Debug\netcoreapp3.1\Practical_4.deps.json
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\bin\Debug\netcoreapp3.1\Practical_4.runtimeconfig.json
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\bin\Debug\netcoreapp3.1\Practical_4.runtimeconfig.dev.json
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\bin\Debug\netcoreapp3.1\Practical_4.dll
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\bin\Debug\netcoreapp3.1\Practical_4.pdb
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\obj\Debug\netcoreapp3.1\Practical_4.AssemblyInfoInputs.cache
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\obj\Debug\netcoreapp3.1\Practical_4.AssemblyInfo.cs
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\obj\Debug\netcoreapp3.1\Practical_4.dll
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_4\obj\Debug\netcoreapp3.1\Practical_4.pdb

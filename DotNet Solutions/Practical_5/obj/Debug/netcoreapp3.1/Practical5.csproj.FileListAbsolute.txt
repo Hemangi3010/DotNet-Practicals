@@ -1,0 +1,11 @@
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\bin\Debug\netcoreapp3.1\Practical5.exe
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\bin\Debug\netcoreapp3.1\Practical5.deps.json
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\bin\Debug\netcoreapp3.1\Practical5.runtimeconfig.json
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\bin\Debug\netcoreapp3.1\Practical5.runtimeconfig.dev.json
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\bin\Debug\netcoreapp3.1\Practical5.dll
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\bin\Debug\netcoreapp3.1\Practical5.pdb
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\obj\Debug\netcoreapp3.1\Practical5.csprojAssemblyReference.cache
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\obj\Debug\netcoreapp3.1\Practical5.AssemblyInfoInputs.cache
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\obj\Debug\netcoreapp3.1\Practical5.AssemblyInfo.cs
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\obj\Debug\netcoreapp3.1\Practical5.dll
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical5\obj\Debug\netcoreapp3.1\Practical5.pdb

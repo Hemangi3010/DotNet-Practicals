@@ -1,0 +1,9 @@
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\bin\Debug\Practical_8.exe.config
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\bin\Debug\Practical_8.exe
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\bin\Debug\Practical_8.pdb
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\obj\Debug\Practical_8.csprojAssemblyReference.cache
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\obj\Debug\Practical_8.Form1.resources
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\obj\Debug\Practical_8.Properties.Resources.resources
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\obj\Debug\Practical_8.csproj.GenerateResource.cache
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\obj\Debug\Practical_8.exe
+C:\Users\Hemangi\source\repos\solutions\DotNet Solutions\Practical_8\obj\Debug\Practical_8.pdb
