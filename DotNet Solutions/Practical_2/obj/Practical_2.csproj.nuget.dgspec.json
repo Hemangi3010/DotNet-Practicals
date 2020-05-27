@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical_2\\Practical_2.csproj": {}
+    "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_2\\Practical_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical_2\\Practical_2.csproj": {
+    "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_2\\Practical_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical_2\\Practical_2.csproj",
+        "projectUniqueName": "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_2\\Practical_2.csproj",
         "projectName": "Practical_2",
-        "projectPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical_2\\Practical_2.csproj",
+        "projectPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_2\\Practical_2.csproj",
         "packagesPath": "C:\\Users\\Hemangi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical_2\\obj\\",
+        "outputPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

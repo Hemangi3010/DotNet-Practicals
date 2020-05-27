@@ -1,0 +1,11 @@
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\bin\Debug\netcoreapp3.1\Practical_10.exe
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\bin\Debug\netcoreapp3.1\Practical_10.deps.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\bin\Debug\netcoreapp3.1\Practical_10.runtimeconfig.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\bin\Debug\netcoreapp3.1\Practical_10.runtimeconfig.dev.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\bin\Debug\netcoreapp3.1\Practical_10.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\bin\Debug\netcoreapp3.1\Practical_10.pdb
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\obj\Debug\netcoreapp3.1\Practical_10.csprojAssemblyReference.cache
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\obj\Debug\netcoreapp3.1\Practical_10.AssemblyInfoInputs.cache
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\obj\Debug\netcoreapp3.1\Practical_10.AssemblyInfo.cs
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\obj\Debug\netcoreapp3.1\Practical_10.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Practical_10\obj\Debug\netcoreapp3.1\Practical_10.pdb

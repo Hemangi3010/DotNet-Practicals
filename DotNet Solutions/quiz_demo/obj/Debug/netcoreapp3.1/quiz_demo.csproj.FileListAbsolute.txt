@@ -1,0 +1,11 @@
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\bin\Debug\netcoreapp3.1\quiz_demo.exe
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\bin\Debug\netcoreapp3.1\quiz_demo.deps.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\bin\Debug\netcoreapp3.1\quiz_demo.runtimeconfig.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\bin\Debug\netcoreapp3.1\quiz_demo.runtimeconfig.dev.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\bin\Debug\netcoreapp3.1\quiz_demo.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\bin\Debug\netcoreapp3.1\quiz_demo.pdb
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\obj\Debug\netcoreapp3.1\quiz_demo.csprojAssemblyReference.cache
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\obj\Debug\netcoreapp3.1\quiz_demo.AssemblyInfoInputs.cache
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\obj\Debug\netcoreapp3.1\quiz_demo.AssemblyInfo.cs
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\obj\Debug\netcoreapp3.1\quiz_demo.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\quiz_demo\obj\Debug\netcoreapp3.1\quiz_demo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\bin\Debug\netcoreapp3.1\Program2_code.exe
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\bin\Debug\netcoreapp3.1\Program2_code.deps.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\bin\Debug\netcoreapp3.1\Program2_code.runtimeconfig.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\bin\Debug\netcoreapp3.1\Program2_code.runtimeconfig.dev.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\bin\Debug\netcoreapp3.1\Program2_code.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\bin\Debug\netcoreapp3.1\Program2_code.pdb
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\obj\Debug\netcoreapp3.1\Program2_code.AssemblyInfoInputs.cache
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\obj\Debug\netcoreapp3.1\Program2_code.AssemblyInfo.cs
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\obj\Debug\netcoreapp3.1\Program2_code.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Program2_code\obj\Debug\netcoreapp3.1\Program2_code.pdb

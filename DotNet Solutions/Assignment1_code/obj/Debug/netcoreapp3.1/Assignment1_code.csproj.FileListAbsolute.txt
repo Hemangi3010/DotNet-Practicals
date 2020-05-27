@@ -1,0 +1,10 @@
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\bin\Debug\netcoreapp3.1\Assignment1_code.exe
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\bin\Debug\netcoreapp3.1\Assignment1_code.deps.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\bin\Debug\netcoreapp3.1\Assignment1_code.runtimeconfig.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\bin\Debug\netcoreapp3.1\Assignment1_code.runtimeconfig.dev.json
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\bin\Debug\netcoreapp3.1\Assignment1_code.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\bin\Debug\netcoreapp3.1\Assignment1_code.pdb
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\obj\Debug\netcoreapp3.1\Assignment1_code.AssemblyInfoInputs.cache
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\obj\Debug\netcoreapp3.1\Assignment1_code.AssemblyInfo.cs
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\obj\Debug\netcoreapp3.1\Assignment1_code.dll
+C:\Users\Hemangi\source\repos\solutions\final solution\DotNet Solutions\Assignment1_code\obj\Debug\netcoreapp3.1\Assignment1_code.pdb

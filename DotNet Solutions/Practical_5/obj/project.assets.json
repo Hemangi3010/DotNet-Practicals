@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical5\\Practical_5.csproj",
+      "projectUniqueName": "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_5\\Practical_5.csproj",
       "projectName": "Practical_5",
-      "projectPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical5\\Practical_5.csproj",
+      "projectPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_5\\Practical_5.csproj",
       "packagesPath": "C:\\Users\\Hemangi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\DotNet Solutions\\Practical5\\obj\\",
+      "outputPath": "C:\\Users\\Hemangi\\source\\repos\\solutions\\final solution\\DotNet Solutions\\Practical_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
